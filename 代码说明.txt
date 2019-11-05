@@ -1,0 +1,7 @@
+vue_book：为vue前端项目的，将项目文件夹用vsCode打开，
+然后运行npm install，安装项目所需要的element-ui，axios等资源
+
+java_book：为java后台项目，用idea打开，修改maven的路径。然后修改application.properties中的
+数据库位置。
+
+book.sql和category.sql：为数据库的表信息，导入到sqlyog创建即可。
